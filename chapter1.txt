@@ -1,2 +1,3 @@
 Fist text wrote in this file.
 Adjusted chapter 1 after creating new-feature branch.
+Adjusted by rica-neaga25
