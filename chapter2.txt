@@ -1,1 +1,2 @@
 Some data wrote in chapter 2
+Adjusted chapter 2 creating new-feature branch.
